@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AddingNumbersFromN-M/1.0.0": {
+        "runtime": {
+          "AddingNumbersFromN-M.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddingNumbersFromN-M/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

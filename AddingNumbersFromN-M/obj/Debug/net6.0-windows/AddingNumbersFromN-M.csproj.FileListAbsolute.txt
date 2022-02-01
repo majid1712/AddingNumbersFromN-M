@@ -1,0 +1,17 @@
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\bin\Debug\net6.0-windows\AddingNumbersFromN-M.exe
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\bin\Debug\net6.0-windows\AddingNumbersFromN-M.deps.json
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\bin\Debug\net6.0-windows\AddingNumbersFromN-M.runtimeconfig.json
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\bin\Debug\net6.0-windows\AddingNumbersFromN-M.dll
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\bin\Debug\net6.0-windows\ref\AddingNumbersFromN-M.dll
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\bin\Debug\net6.0-windows\AddingNumbersFromN-M.pdb
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.csproj.AssemblyReference.cache
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN_M.Form1.resources
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.csproj.GenerateResource.cache
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.AssemblyInfoInputs.cache
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.AssemblyInfo.cs
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.csproj.CoreCompileInputs.cache
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.dll
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\ref\AddingNumbersFromN-M.dll
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.pdb
+C:\repos\Teaching\C#\AddingNumbersFromN-M\AddingNumbersFromN-M\obj\Debug\net6.0-windows\AddingNumbersFromN-M.genruntimeconfig.cache
